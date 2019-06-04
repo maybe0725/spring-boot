@@ -15,6 +15,8 @@ YAML 파일은 **@ PropertySource**를 사용하여로드 할 수 없습니다.
 
 ## References
 
+>● [Mkyong.com - Example](https://www.mkyong.com/spring-boot/spring-boot-yaml-example/)
+
 >● [YAML](https://yaml.org/)
 
 >● [Wikipedia - YAML](https://en.wikipedia.org/wiki/YAML)
