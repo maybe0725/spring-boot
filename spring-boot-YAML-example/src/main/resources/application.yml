@@ -1,0 +1,33 @@
+logging:
+  level:
+    org.springframework: ERROR
+    com.mkyong: DEBUG
+
+spring:
+  profiles:
+    active: dev
+  main:  
+#   banner-mode: off   --- this code error!!!
+#   Caused by: org.springframework.core.convert.ConverterNotFoundException: No converter found capable of converting from type [java.lang.Boolean] to type [org.springframework.boot.Banner$Mode] 
+    banner-mode: 'off'
+
+email: yaml@mkyong.com
+thread-pool: 10
+
+wordpress:
+  menus:
+    - title: Home
+      name: Home
+      path: /
+    - title: About
+      name: About
+      path: /about
+  themes:
+    default-folder: /wp-content/themes/mkyong
+  servers:
+    - ip: 127.0.0.1
+      path: /dev1
+    - ip: 127.0.0.2
+      path: /dev2
+    - ip: 127.0.0.3
+      path: /dev3
