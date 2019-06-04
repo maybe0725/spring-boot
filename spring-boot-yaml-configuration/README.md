@@ -1,6 +1,5 @@
-[**참고**](https://www.baeldung.com/spring-yaml)
-
-[**GitHub**](https://github.com/eugenp/tutorials/tree/master/spring-core)
+Link: [**WebSite**](https://www.baeldung.com/spring-yaml) <br/>
+Link: [**GitHub**](https://github.com/eugenp/tutorials/tree/master/spring-core)
 
 Spring YAML Configuration
 =========================
