@@ -1,6 +1,3 @@
-Link: [WebSite](https://www.baeldung.com/spring-boot-configure-data-source-programmatic) <br/>
-Link: [GitHub](https://github.com/eugenp/tutorials/tree/master/persistence-modules/spring-boot-persistence)
-
 Spring Boot DataSource 설정하기.
 ==============================
 
@@ -212,10 +209,13 @@ public class Application {
 
 따라서 샘플 애플리케이션을 실행하면 콘솔 출력에서 데이터베이스에 저장된 사용자 엔티티의 목록을 볼 수 있습니다.
 
-
-
 # 6. Conclusion
 
 이 튜토리얼에서는 스프링 부트에서 프로그래밍 방식으로 DataSource 구현을 구성하는 방법을 배웠다.
 
 평소대로이 튜토리얼에 표시된 모든 코드 샘플은 GitHub에서 사용할 수 있습니다.
+
+## References
+
+>● [baeldung - Example](https://www.baeldung.com/spring-boot-configure-data-source-programmatic) <br/>
+>● [GitHub](https://github.com/eugenp/tutorials/tree/master/persistence-modules/spring-boot-persistence)
