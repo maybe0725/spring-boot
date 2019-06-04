@@ -8,6 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import com.example.config.GlobalProperties;
 import com.example.config.WordPressProperties;
 
+/**
+ * https://www.mkyong.com/spring-boot/spring-boot-yaml-example/
+ */
 @SpringBootApplication
 public class Application implements CommandLineRunner {
 
