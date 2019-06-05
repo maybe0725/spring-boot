@@ -1,6 +1,3 @@
-Link: [**WebSite**](https://www.baeldung.com/spring-yaml) <br/>
-Link: [**GitHub**](https://github.com/eugenp/tutorials/tree/master/spring-core)
-
 Spring YAML Configuration
 =========================
 
@@ -129,3 +126,7 @@ name: prod-YAML
 servers: [www.abc.com, www.xyz.com]
 ==================================================
 ```````````````````````````````````````````````````
+
+## References
+>● [baeldung - Example](https://www.baeldung.com/spring-yaml) <br/>
+>● [GitHub](https://github.com/eugenp/tutorials/tree/master/spring-core)
